@@ -25,7 +25,7 @@ node_modules
 dist
 dist-ssr
 *.local
-
+*.svg
 package-lock.json
 
 # Editor directories and files
