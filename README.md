@@ -1,8 +1,19 @@
-# React + Vite
+Creative Lab – Онлайн сервис для создания современного дизайна
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Creative Lab – это ваш надежный партнер в разработке современного дизайна для бизнеса. Мы предлагаем услуги по созданию уникальных логотипов, визиток, плакатов, постеров и многого другого. Закажите дизайн онлайн и получите стильные и профессиональные решения, которые помогут выделиться на рынке.
 
-Currently, two official plugins are available:
+Услуги
+Логотипы
+Визитки
+Плакаты и постеры
+Посты для социальных сетей
+Мы гарантируем высокий уровень качества и индивидуальный подход к каждому заказу. Просто выберите услугу, предоставьте описание, и мы создадим идеальный дизайн для вашего бизнеса.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Технологии
+Проект использует современные веб-технологии для обеспечения удобства и быстроты оформления заказов. Клиентская часть написана на HTML, CSS, JavaScript, jQuery, а серверная — на PHP с использованием MySQL для хранения данных.
+
+Преимущества
+Удобный онлайн заказ
+Быстрая и качественная разработка
+Индивидуальные решения для каждого клиента
+Посетите наш сайт: Creative Lab
